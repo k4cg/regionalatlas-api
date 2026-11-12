@@ -283,9 +283,6 @@ Gültige Einträge für die *tableName* finden sich unter [https://regionalatlas
 |Durchschnittliche Wohnfläche je Wohnung|AI-Z19|m²|Wohn- und Gebäudezählung|AI-Z4-2011|Zensus|
 
 
-
-
-
 **Parameter** *f*
 
 Output-Format (z.B. "json" oder "html").
